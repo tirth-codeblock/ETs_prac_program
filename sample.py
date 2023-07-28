@@ -32,5 +32,10 @@ print(d[0:5:1])
 print(bool(a))
 print(bool(d))
 
-#type six ()
+#type six (complex)
+
+H=2+4j
+T=3+8g
+print(type(T))
+
 
