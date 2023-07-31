@@ -35,7 +35,5 @@ print(bool(d))
 #type six (complex)
 
 H=2+4j
-T=3+8g
+T=3+8j
 print(type(T))
-
-
